@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CollegeNoticeBoard</string>
+    <string name="requestUrl">http://192.168.1.106:5500/api/</string>
+    <string name="text_cap_registered_email">Registered Email</string>
+    <string name="text_cap_password">Password</string>
+    <string name="text_cap_remember_me">Remember Me?</string>
+    <string name="text_cap_sign_in">Sign In</string>
+    <string name="text_cap_name">Name</string>
+    <string name="text_cap_email">Email</string>
+    <string name="text_cap_confirm_password">Confirm Password</string>
+    <string name="text_cap_select_dept">Select Dept :</string>
+    <string name="text_caps_register">REGISTER</string>
+    <string name="text_cap_hello_user">Hello user</string>
+    <string name="text_cap_logout">Logout</string>
+    <string name="text_cap_not_registered_yet">Not registered yet ..?</string>
+    <string name="img_description_notifaication_icon">Notifaication icon</string>
+</resources>
